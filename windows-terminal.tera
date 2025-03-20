@@ -1,0 +1,58 @@
+---
+whiskers:
+  version: ^2.0.0
+  matrix:
+    - flavor
+    - accent
+  filename: "themes/evergarden-{{flavor.identifier}}-{{accent}}.json"
+---
+{% set accent = flavor.colors[accent] %}
+{
+    "schemes": [
+        {
+            "background": "#{{base.hex}}",
+            "black": "#{{base.hex}}",
+            "blue": "#{{blue.hex}}",
+            "brightBlack": "#{{surface0.hex}}",
+            "brightBlue": "#{{blue.hex}}",
+            "brightCyan": "#{{aqua.hex}}",
+            "brightGreen": "#{{green.hex}}",
+            "brightPurple": "#{{pink.hex}}",
+            "brightRed": "#{{red.hex}}",
+            "brightWhite": "#{{subtext0.hex}}",
+            "brightYellow": "#{{yellow.hex}}",
+            "cursorColor": "#{{accent.hex}}",
+            "cyan": "#{{aqua.hex}}",
+            "foreground": "#{{text.hex}}",
+            "green": "#{{green.hex}}",
+            "name": "Evergarden {{flavor.name}}",
+            "purple": "#{{pink.hex}}",
+            "red": "#{{red.hex}}",
+            "selectionBackground": "#{{surface1.hex}}",
+            "white": "#{{text.hex}}",
+            "yellow": "#{{yellow.hex}}"
+        }
+    ],
+    "themes": [
+        {
+            "name": "Evergarden {{flavor.name}}",
+            "tab": {
+                "background": "#{{base.hex}}FF",
+                "iconStyle": "default",
+                "showCloseButton": "always",
+                "unfocusedBackground": null
+            },
+            "tabRow": {
+                "background": "#{{mantle.hex}}FF",
+                "unfocusedBackground": "#{{crust.hex}}FF"
+            },
+            "window": {
+                "applicationTheme": "dark",
+                "experimental.rainbowFrame": false,
+                "frame": null,
+                "unfocusedFrame": null,
+                "useMica": false
+            }
+        }
+    ],
+}

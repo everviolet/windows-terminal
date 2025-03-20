@@ -1,0 +1,50 @@
+
+{
+    "schemes": [
+        {
+            "background": "#1d2428",
+            "black": "#1d2428",
+            "blue": "#9bb5cf",
+            "brightBlack": "#232a2e",
+            "brightBlue": "#9bb5cf",
+            "brightCyan": "#93c9a1",
+            "brightGreen": "#b2c98f",
+            "brightPurple": "#e3a8d1",
+            "brightRed": "#e67e80",
+            "brightWhite": "#94aaa0",
+            "brightYellow": "#dbbc7f",
+            "cursorColor": "#9bb5cf",
+            "cyan": "#93c9a1",
+            "foreground": "#dddecf",
+            "green": "#b2c98f",
+            "name": "Evergarden Winter",
+            "purple": "#e3a8d1",
+            "red": "#e67e80",
+            "selectionBackground": "#3d494d",
+            "white": "#dddecf",
+            "yellow": "#dbbc7f"
+        }
+    ],
+    "themes": [
+        {
+            "name": "Evergarden Winter",
+            "tab": {
+                "background": "#1d2428FF",
+                "iconStyle": "default",
+                "showCloseButton": "always",
+                "unfocusedBackground": null
+            },
+            "tabRow": {
+                "background": "#191e21FF",
+                "unfocusedBackground": "#171c1fFF"
+            },
+            "window": {
+                "applicationTheme": "dark",
+                "experimental.rainbowFrame": false,
+                "frame": null,
+                "unfocusedFrame": null,
+                "useMica": false
+            }
+        }
+    ],
+}

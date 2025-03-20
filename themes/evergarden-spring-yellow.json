@@ -1,0 +1,50 @@
+
+{
+    "schemes": [
+        {
+            "background": "#2b3538",
+            "black": "#2b3538",
+            "blue": "#9bb5cf",
+            "brightBlack": "#313b40",
+            "brightBlue": "#9bb5cf",
+            "brightCyan": "#93c9a1",
+            "brightGreen": "#b2c98f",
+            "brightPurple": "#e3a8d1",
+            "brightRed": "#e67e80",
+            "brightWhite": "#94aaa0",
+            "brightYellow": "#dbbc7f",
+            "cursorColor": "#dbbc7f",
+            "cyan": "#93c9a1",
+            "foreground": "#dddecf",
+            "green": "#b2c98f",
+            "name": "Evergarden Spring",
+            "purple": "#e3a8d1",
+            "red": "#e67e80",
+            "selectionBackground": "#3d494d",
+            "white": "#dddecf",
+            "yellow": "#dbbc7f"
+        }
+    ],
+    "themes": [
+        {
+            "name": "Evergarden Spring",
+            "tab": {
+                "background": "#2b3538FF",
+                "iconStyle": "default",
+                "showCloseButton": "always",
+                "unfocusedBackground": null
+            },
+            "tabRow": {
+                "background": "#232a2eFF",
+                "unfocusedBackground": "#1c2225FF"
+            },
+            "window": {
+                "applicationTheme": "dark",
+                "experimental.rainbowFrame": false,
+                "frame": null,
+                "unfocusedFrame": null,
+                "useMica": false
+            }
+        }
+    ],
+}
