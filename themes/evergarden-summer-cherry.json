@@ -1,0 +1,50 @@
+
+{
+    "schemes": [
+        {
+            "background": "#e9ebf0",
+            "black": "#e9ebf0",
+            "blue": "#8ca4bb",
+            "brightBlack": "#ced9e0",
+            "brightBlue": "#8ca4bb",
+            "brightCyan": "#91bb9c",
+            "brightGreen": "#a9be88",
+            "brightPurple": "#d0a3c3",
+            "brightRed": "#c0696b",
+            "brightWhite": "#526469",
+            "brightYellow": "#cbae75",
+            "cursorColor": "#dbb5ca",
+            "cyan": "#91bb9c",
+            "foreground": "#171c1f",
+            "green": "#a9be88",
+            "name": "Evergarden Summer",
+            "purple": "#d0a3c3",
+            "red": "#c0696b",
+            "selectionBackground": "#b4c6cc",
+            "white": "#171c1f",
+            "yellow": "#cbae75"
+        }
+    ],
+    "themes": [
+        {
+            "name": "Evergarden Summer",
+            "tab": {
+                "background": "#e9ebf0FF",
+                "iconStyle": "default",
+                "showCloseButton": "always",
+                "unfocusedBackground": null
+            },
+            "tabRow": {
+                "background": "#e1e5edFF",
+                "unfocusedBackground": "#d6dbe9FF"
+            },
+            "window": {
+                "applicationTheme": "dark",
+                "experimental.rainbowFrame": false,
+                "frame": null,
+                "unfocusedFrame": null,
+                "useMica": false
+            }
+        }
+    ],
+}
