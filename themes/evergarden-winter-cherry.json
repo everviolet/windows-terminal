@@ -2,25 +2,25 @@
 {
     "schemes": [
         {
-            "background": "#1d2428",
-            "black": "#1d2428",
-            "blue": "#b2cfed",
-            "brightBlack": "#2d393d",
-            "brightBlue": "#b2cfed",
-            "brightCyan": "#addeb9",
-            "brightGreen": "#cae0a7",
+            "background": "#1e2528",
+            "black": "#1e2528",
+            "blue": "#b2caed",
+            "brightBlack": "#262f33",
+            "brightBlue": "#b2caed",
+            "brightCyan": "#b3e3ca",
+            "brightGreen": "#cbe3b3",
             "brightPurple": "#f3c0e5",
             "brightRed": "#f57f82",
             "brightWhite": "#96b4aa",
             "brightYellow": "#f5d098",
             "cursorColor": "#f6cee5",
-            "cyan": "#addeb9",
+            "cyan": "#b3e3ca",
             "foreground": "#f8f9e8",
-            "green": "#cae0a7",
+            "green": "#cbe3b3",
             "name": "Evergarden Winter",
             "purple": "#f3c0e5",
             "red": "#f57f82",
-            "selectionBackground": "#3d494d",
+            "selectionBackground": "#374145",
             "white": "#f8f9e8",
             "yellow": "#f5d098"
         }
@@ -29,7 +29,7 @@
         {
             "name": "Evergarden Winter",
             "tab": {
-                "background": "#1d2428FF",
+                "background": "#1e2528FF",
                 "iconStyle": "default",
                 "showCloseButton": "always",
                 "unfocusedBackground": null
